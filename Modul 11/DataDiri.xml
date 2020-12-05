@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<DataDiri>
+	<nama>
+		<awal>Sisilia Juli</awal>
+		<akhir>Anggraini</akhir>
+	</nama>
+
+	<saudara>
+		<saudaraKe1> Yosepha Enjelina Prameswari</saudaraKe1>
+		<saudaraKe2> Patricia Vanesa Setia Ningrum</saudaraKe2>
+	</saudara>
+
+	<orangTua>
+		<ayah>Robertus Supriyono</ayah>
+		<ibu>Margareta Triyatun</ibu>
+	</orangTua>
+
+	<hobby>Menonton Drama </hobby>
+
+	<alamat>
+		<desa>Sukabakti</desa>
+		<kecamatan>Palas</kecamatan>
+		<kabupaten>Lampung Selatan</kabupaten>
+	</alamat>
+
+	<sosalMedia>
+		<facebook>Sisilia Juli Anggraini</facebook>
+		<instagram>sisiliajuli17</instagram>
+		<github>SisiliaJuli</github>
+	</sosalMedia>
+</dataDiri>

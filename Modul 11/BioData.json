@@ -1,0 +1,25 @@
+{
+	"DataDiri": {
+		"Nama":"Sisilia Juli Anggraini",
+		"JenisKelamin" :"Perempuan",
+		"Saudara" : {
+			"Saudara1" :"Yosepha Enjelina Prameswari",
+			"Saudara2" :"Patricia Vanesa Setia Ningrum"
+		}
+		"OrangTua" :{
+			"Ayah" : "Robertus Supriyono",
+			"Ibu" : "Margareta Triyatun"
+		}
+		"Hobby" :"Menomton drama",
+		"Alamat":{
+			"Desa": "Sukabakti",
+			"Kecamatan":"Palas",
+			"Kabupaten": "Lampung Selatan"
+		}
+		"SosialMedia":{
+			"Facebook" :"Sisilia Juli Anggraini",
+			"Instagram" :"sisiliajuli17",
+			"github" :"sisiliajuli"
+		}
+	}
+}
